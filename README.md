@@ -172,5 +172,5 @@ jupyter notebook Retail_Sales_Analysis.ipynb
 
 ## 👤 Author
 
-**Your Name**
-📧 your.email@example.com · 🔗 [LinkedIn](https://linkedin.com/in/your-profile) · 💻 [GitHub](https://github.com/your-username)
+Sumedh Wankhade (Aspiring Data Analyst)
+**Skills:** Excel | SQL | Python | Power BI 
